@@ -1,6 +1,7 @@
-public abstract Forme [
+public abstract Forme {
 public int centrex;
 public int centrey;
+  public string type;
 
 public void add(Forme forme);
 public void remove(Forme forme);
