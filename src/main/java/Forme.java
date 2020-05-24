@@ -1,7 +1,6 @@
 public abstract Forme {
 public int centrex;
 public int centrey;
-  public int dimension;
   public string type;
 
 public void add(Forme forme);
